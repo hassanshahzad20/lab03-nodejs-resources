@@ -44,4 +44,4 @@ module.exports = {
     searchIDService,
     searchService,
     searchCategoryService
-};
+}; 
